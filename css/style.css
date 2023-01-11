@@ -1,0 +1,39 @@
+body{
+    background-color: #ce85f2;
+    font-family: Georgia,Times,Times New Roman,serif; 
+    font-size: 15px;
+    margin: 0;
+}
+ 
+header{
+    background-color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: darkolivegreen;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.container{
+     width: 80%;
+     margin: 0 auto;
+}
+
+section{
+    float: left;
+    width: 70%;
+    margin-bottom: 50px;
+}
+
+aside{
+    float: right;
+    width: 25%;
+}
+
+footer{
+    clear: both;
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
